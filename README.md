@@ -1,7 +1,7 @@
 # Hola 🚀
 
 
-**Soy un profesional de la ciberseguridad con experiencia en [tecnologías]. Estoy interesado en [temas].**
+**Soy un profesional de la ciberseguridad con experiencia en análisis de vulnerabilidades. Estoy interesado en el hacking ético y la protección de los recursos de las organizaciones.**
 
 **Mis habilidades incluyen:**
 
