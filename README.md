@@ -15,22 +15,20 @@
 
 **Mis proyectos recientes incluyen:**
 
-* Desarrollo de una herramienta de análisis de vulnerabilidades
-* Investigación de una nueva vulnerabilidad en un sistema operativo
-* Implementación de una solución de seguridad en la nube
+* Llevar a cabo la gestión de todas las vulnerabilidades de algunas empresas en México
 
-**Estoy buscando oportunidades para trabajar en proyectos de ciberseguridad que sean desafiantes e innovadores.**
+**Estoy buscando oportunidades para trabajar en proyectos de ciberseguridad**
 
 
 
 También tengo experiencia en las siguientes tecnologías:
 
-* Scripting con Python
 * Nessus/Tenable.io
-* Análisis de tráfico
-* Automatizaciones
-* Windows Powershell
+* Programación Java
+* Entrega de reportes ejecutivos para la toma de desiciones
 * Explotación de vulnerabilidades
+* Hacking ético
+* Pruebas de penetración
 
 
 ## Contacto
