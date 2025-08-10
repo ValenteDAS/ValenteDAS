@@ -6,9 +6,7 @@
 
 ---
 
-**Analista de ciberseguridad especializado en gestión de vulnerabilidades, inteligencia de amenazas y protección de infraestructuras críticas.**  
-Atizapán de Zaragoza, México  
-📧 tcp-ipv6@pm.me
+**Analista de ciberseguridad especializado en gestión de vulnerabilidades, inteligencia de amenazas.**  
 
 ---
 
@@ -21,7 +19,6 @@ Profesional dedicado a la ciberseguridad, apasionado por el hacking ético y la 
 ### 🧰 Habilidades y tecnologías
 
 - Análisis y gestión de vulnerabilidades (más de 600 servidores)
-- Pruebas de penetración y hacking ético
 - Seguridad de la información y en la nube
 - Inteligencia de amenazas cibernéticas
 - Investigación OSINT y análisis de incidentes
@@ -40,10 +37,11 @@ Profesional dedicado a la ciberseguridad, apasionado por el hacking ético y la 
 
 ---
 
-### 🎓 Certificaciones
+### 🎓 Certificaciones y cursos
 
-- Analista de Amenazas Cibernéticas – EC-Council
+- Curso Analista de Amenazas Cibernéticas – EC-Council
 - Cursos de hacking ético
+- ISC - Certified in Cibersecurity
 
 ---
 
@@ -57,7 +55,7 @@ Profesional dedicado a la ciberseguridad, apasionado por el hacking ético y la 
 ### 📬 Contacto
 
 ¿Te gustaría colaborar o tienes algún proyecto de ciberseguridad?  
-Puedes escribirme a tcp-ipv6@pm.me.
+Puedes escribirme a: vdas.rss.4884k@slmail.me
 
 ---
 
