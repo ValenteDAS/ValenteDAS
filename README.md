@@ -2,8 +2,6 @@
   <h1>¡Hola, me llamo Valente! 🚀</h1>
 </div>
 
-<img src="https://github.com/ValenteDAS/ValenteDAS/blob/main/DAS.svg" alt="DAS Logo" width="200"/>
-
 ---
 
 **Analista de ciberseguridad especializado en gestión de vulnerabilidades, inteligencia de amenazas.**  
